@@ -10,7 +10,7 @@
 // main 함수 argument는 keyboard
 
 
-char buf[100];
+char buf[2000];
 void MemoryDump(int start, int length);
 
 int main(int argc, char *argv[]) // >PointerSample 10000 500 이러한 형대로 입력이 되는 타입 // Command Line 명령어
