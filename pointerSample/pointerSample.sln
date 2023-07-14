@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointerSample", "pointerSample\pointerSample.vcxproj", "{B31B3BCA-4021-4F49-A05C-7CAAB6C77304}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_Overloading_test1", "Cpp_Overloading_test1\Cpp_Overloading_test1.vcxproj", "{692FAC68-AD28-4656-8A05-F7A973109B04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B31B3BCA-4021-4F49-A05C-7CAAB6C77304}.Release|x64.Build.0 = Release|x64
 		{B31B3BCA-4021-4F49-A05C-7CAAB6C77304}.Release|x86.ActiveCfg = Release|Win32
 		{B31B3BCA-4021-4F49-A05C-7CAAB6C77304}.Release|x86.Build.0 = Release|Win32
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Debug|x64.ActiveCfg = Debug|x64
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Debug|x64.Build.0 = Debug|x64
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Debug|x86.ActiveCfg = Debug|Win32
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Debug|x86.Build.0 = Debug|Win32
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Release|x64.ActiveCfg = Release|x64
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Release|x64.Build.0 = Release|x64
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Release|x86.ActiveCfg = Release|Win32
+		{692FAC68-AD28-4656-8A05-F7A973109B04}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

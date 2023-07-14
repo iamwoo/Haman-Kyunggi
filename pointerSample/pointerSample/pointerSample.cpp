@@ -4,6 +4,7 @@
 //#include <iostream> // C++에서 사용하는거
 #include <stdio.h>
 #include <malloc.h> //malloc 함수 사용
+
 // 수정시 기준 소스 삭제 자제.
 // 주석 달기
 // 함수에는 type, argument 있다.
